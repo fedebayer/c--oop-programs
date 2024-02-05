@@ -5,6 +5,7 @@
 
 ### Frameworks/tools
 * Visual Studio
+* .NET
 * C#
   
 ### Objectives
