@@ -12,4 +12,4 @@
 
 * Achieve knowledge and practise developing OOP programs and learning it's principles.
 * Achieve advanced knowledge and use of C#.
-* Know and use Software Tools,Visual Studio, Console apps, etc.
+* Know and use Software Tools, Visual Studio, Console apps, etc.
